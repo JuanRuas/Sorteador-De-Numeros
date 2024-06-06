@@ -1,4 +1,4 @@
-// Recuperando elementos da pagina.
+// elementos da pagina.
 
 function sortear(){
 
